@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HadoopTest.iml" filepath="$PROJECT_DIR$/HadoopTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esTest/esTest.iml" filepath="$PROJECT_DIR$/esTest/esTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/kafkaTest/kafkaTest.iml" filepath="$PROJECT_DIR$/kafkaTest/kafkaTest.iml" />
     </modules>
   </component>
